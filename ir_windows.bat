@@ -1,6 +1,5 @@
 @echo off
 REM Incident Response Evidence Collection Script
-REM Author: Lenin Guerrero
 REM Version: 2.0
 
 :: ============================================
